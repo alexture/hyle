@@ -5,7 +5,7 @@
 [![Code Coverage][codecov-badge]][codecov-url]
 [![Twitter][twitter-badge]][twitter-url]
 
-_A sequencing and settlement layer to help you build provable apps that are minimally, yet sufficiently, on-chain._
+_A lean blockchain to help you build provable apps that are minimally, yet sufficiently, on-chain._
 
 This repository hosts the **work-in-progress Rust client** for the [Hylé](https://hyle.eu) chain.  
 The older, but still maintained, Cosmos SDK-based client can be found at [hyle-cosmos](https://github.com/Hyle-org/hyle-cosmos).
